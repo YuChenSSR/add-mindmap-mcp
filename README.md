@@ -307,7 +307,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Spotify](https://github.com/varunneal/spotify-mcp)** - This MCP allows an LLM to play and use Spotify.
 - **[Starwind UI](https://github.com/Boston343/starwind-ui-mcp/)** - This MCP provides relevant commands, documentation, and other information to allow LLMs to take full advantage of Starwind UI's open source Astro components.
 - **[Stripe](https://github.com/atharvagupta2003/mcp-stripe)** - This MCP allows integration with Stripe for handling payments, customers, and refunds.
-- **[Symbolica-mcp](https://github.com/YuChenSSR/symbolica-mcp)** 🐍 🏠 - Model Context Protocol (MCP) server for symbolic or formula computation, numerical computation, and visualization.
+- **[Symbolica-mcp](https://github.com/YuChenSSR/symbolica-mcp)** - Model Context Protocol (MCP) server for symbolic or formula computation, numerical computation, and visualization.
 - **[TMDB](https://github.com/Laksh-star/mcp-server-tmdb)** - This MCP server integrates with The Movie Database (TMDB) API to provide movie information, search capabilities, and recommendations.
 - **[Tavily search](https://github.com/RamXX/mcp-tavily)** - An MCP server for Tavily's search & news API, with explicit site inclusions/exclusions
 - **[Terminal-Control](https://github.com/GongRzhe/terminal-controller-mcp)** - A MCP server that enables secure terminal command execution, directory navigation, and file system operations through a standardized interface.
